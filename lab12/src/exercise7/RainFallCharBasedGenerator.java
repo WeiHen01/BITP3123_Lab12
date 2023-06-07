@@ -28,8 +28,10 @@ public class RainFallCharBasedGenerator {
 			
 			// 3. Write 
 			for (int index = 0; index < array.length; index++) {
-				bwOutput.write(String.valueOf(array[index]) + "\n");
+				bwOutput.write(String.valueOf(array[index]));
+				bwOutput.newLine();
 			}
+			
 			
 			// 4. Clear the stream
 			bwOutput.flush(); 
