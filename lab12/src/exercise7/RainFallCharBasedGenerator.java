@@ -31,8 +31,11 @@ public class RainFallCharBasedGenerator {
 				bwOutput.write(String.valueOf(array[index]) + "\n");
 			}
 			
-			// 4. Close the stream
-			bwOutput.close(); 
+			// 4. Clear the stream
+			bwOutput.flush(); 
+			
+			// 5. Close the stream
+			bwOutput.close();
 		}
 		catch(Exception e)
 		{
