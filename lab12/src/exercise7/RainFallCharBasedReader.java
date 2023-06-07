@@ -11,7 +11,7 @@ import java.io.IOException;
  * This class is recreated based on RainFallDataReader.java in package exercise5
  * 
  * In this case, BufferedReader is used.
- * @author Ng Wei Hen
+ * @author Ng Wei Hen (B032110201)
  */
 public class RainFallCharBasedReader {
 

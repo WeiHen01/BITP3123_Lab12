@@ -11,7 +11,7 @@ import java.io.FileWriter;
  * This class is recreated based on RainFallDataWriter.java in package exercise5.
  * 
  * In this case, BufferedWriter is used.
- * @author Ng Wei Hen
+ * @author Ng Wei Hen (B032110201)
  */
 public class RainFallCharBasedGenerator {
 
