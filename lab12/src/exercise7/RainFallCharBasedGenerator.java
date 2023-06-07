@@ -26,7 +26,7 @@ public class RainFallCharBasedGenerator {
 			BufferedWriter bwOutput = new BufferedWriter(files);
 			int [] array= {5,0,0,4,1,0};
 			
-			// 3. Write 
+			// 3. Write the data
 			for (int index = 0; index < array.length; index++) {
 				bwOutput.write(String.valueOf(array[index]));
 				bwOutput.newLine();
