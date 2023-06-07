@@ -9,7 +9,7 @@ import java.io.FileOutputStream;
  * 
  * The data represents station id, station name, name of district and 6-days reading of daily rainfall.
  * 
- * @author Ng Wei Hen
+ * @author Ng Wei Hen (B032110201)
  *
  */
 public class RainFallByteBasedGenerator {

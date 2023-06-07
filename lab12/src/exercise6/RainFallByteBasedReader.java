@@ -11,7 +11,7 @@ import java.util.HashSet;
  * The data is read in byte-based using DataInputStream class. 
  * The data represents station id, station name, name of district and 6-days reading of daily rainfall.
  * 
- * @author Ng Wei Hen
+ * @author Ng Wei Hen (B032110201)
  *
  */
 public class RainFallByteBasedReader {
