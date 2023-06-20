@@ -3,7 +3,7 @@ package exercise5;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
 
-/*
+/**
  * Lab 12 - Programming using Java I/O Streams
  * Exercise 5: Processing Daily Rainfall Data A Station
  * 
