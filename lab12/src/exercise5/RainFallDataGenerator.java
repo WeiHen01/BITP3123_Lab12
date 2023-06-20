@@ -5,7 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 
-/*
+/**
  * Lab 12 - Programming using Java I/O Streams
  * Exercise 5: Processing Daily Rainfall Data A Station
  * 
